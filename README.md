@@ -3,7 +3,7 @@
 
 This Project is a Full Pipelined implementation of a RISCV processor. It was implemented using Verilog HDL and tested on Nexys A7 Board.
 
-The Processor Supports all instructions except the Exception Handlers. It also supports Multplication and division operations. 
+The Processor Supports all integer instructions except the Exception Handlers. It also supports Multplication and division operations. 
 
 Instructions can be Full word (32 bits) or Half word (16 bits) instructions or a mix of both. 
 

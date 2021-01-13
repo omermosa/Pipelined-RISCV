@@ -1,7 +1,7 @@
 # Pipelined-RISCV
 ### This Project was a part of the Computer Architecture Course at the American University in Cairo (AUC).
 
-This Project is a Full Pipelined implementation of a RISCV processor. It was implemented using Verilog HDL and tested on Nexys A7 Board.
+This Project implements a Full Pipelined implementation of a RISCV processor. It was implemented using Verilog HDL and tested on Nexys A7 Board.
 
 The Processor Supports all integer instructions except the Exception Handlers. It also supports Multplication and division operations. 
 
@@ -14,3 +14,5 @@ Hazard detection, Forwarding, and Branch prediction are all implemented and test
 The Processor was simulated using a propper testbench.
 
 To run it, it is recommended to add all sources to one Project on Vivado Xilinx and Run it.
+
+
